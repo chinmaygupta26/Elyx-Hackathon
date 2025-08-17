@@ -20,7 +20,7 @@ warnings.filterwarnings("ignore", message=r"Convert_system_message_to_human will
 
 # ====== CONFIG ======
 MODEL_NAME = "gemini-2.5-pro"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDxJOx6DS-WUBhXiiskYos3HkTyqUEpkZw"
+os.environ["GOOGLE_API_KEY"] = "ENTER_YOUR_GEMINI_API_KEY"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # ====== PROGRAM DATES ======
