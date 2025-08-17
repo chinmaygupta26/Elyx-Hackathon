@@ -1,0 +1,600 @@
+{
+    "member": {
+        "name": "Rohan",
+        "age": null,
+        "location": "Bay Area",
+        "conditions": [
+            "POTS",
+            "long COVID",
+            "autonomic dysfunction",
+            "dizziness on standing"
+        ],
+        "goals": [
+            "Get a proper medical review",
+            "Develop a clinical-grade health strategy",
+            "Health optimization"
+        ],
+        "demographics": {
+            "occupation": "Executive / Business Professional",
+            "lifestyle_factors": [
+                "Uses a Garmin wearable",
+                "Takes supplements",
+                "Travels frequently for business",
+                "Has a personal assistant",
+                "Married"
+            ]
+        }
+    },
+    "journey": [
+        {
+            "date": "2025-01-15",
+            "messages": [
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "Ruby. My Garmin is logging consistently high intensity minutes, even on rest days. I suspect it's my POTS/long COVID. My current health management is ad-hoc. I need a proper medical review. My supplement list is attached.",
+                    "timestamp": "2025-01-15T14:15:00",
+                    "message_index": 0
+                },
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "attached: Rohans_Supplement_Regime.pdf",
+                    "timestamp": "2025-01-15T14:15:00",
+                    "message_index": 1
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Hi [Rohan], thank you for sharing this. We've received your supplement list. Are you experiencing any other symptoms like dizziness or shortness of breath alongside the high intensity minutes? I am flagging this for Dr. Warren to review immediately as Priority 1.",
+                    "timestamp": "2025-01-15T14:38:00",
+                    "message_index": 2
+                },
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "Some dizziness on standing. No SOB.",
+                    "timestamp": "2025-01-15T14:40:00",
+                    "message_index": 3
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Understood. Thank you for clarifying. Dr. Warren will review and we will come back with a plan.",
+                    "timestamp": "2025-01-15T14:41:00",
+                    "message_index": 4
+                }
+            ]
+        },
+        {
+            "date": "2025-01-16",
+            "messages": [
+                {
+                    "speaker": "Dr. Warren",
+                    "role": "Medical Strategist",
+                    "message": "[Rohan], Dr. Warren here. I've reviewed your initial submission. The symptoms and data strongly suggest autonomic dysfunction (Pillar 1). To proceed with a clinical-grade strategy, we must consolidate your complete medical records from all previous specialists. This is non-negotiable to ensure safety and avoid redundant testing.",
+                    "timestamp": "2025-01-16T10:00:00",
+                    "message_index": 5
+                },
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "Acknowledged. How long will that take?",
+                    "timestamp": "2025-01-16T10:05:00",
+                    "message_index": 6
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "The timeline can vary depending on the clinics' response speed, but we will manage the entire process, including phone calls and faxes. We typically aim to have all records within 2-3 weeks. We will provide you with daily updates on the status.",
+                    "timestamp": "2025-01-16T10:10:00",
+                    "message_index": 7
+                },
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "My wife also needs a referral to a top-tier dermatologist in the Bay Area for a persistent rash. Can you handle that?",
+                    "timestamp": "2025-01-16T15:00:00",
+                    "message_index": 8
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Absolutely. That is part of our family service. Could you please provide her name and DOB so I can create a sub-profile for her? We will research the best specialists at UCSF and Stanford and come back with recommendations and our rationale for each.",
+                    "timestamp": "2025-01-16T15:02:00",
+                    "message_index": 9
+                },
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "[Wife's Name], DOB: [XX/XX/XXXX].",
+                    "timestamp": "2025-01-16T15:05:00",
+                    "message_index": 10
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Thank you. We are on it.",
+                    "timestamp": "2025-01-16T15:06:00",
+                    "message_index": 11
+                }
+            ]
+        },
+        {
+            "date": "2025-01-17",
+            "messages": [
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Good morning. We have created the initial shell for your Health Optimization Plan in our secure portal. For now, it's mostly empty, but it's where our entire strategy will live. The first step for you is a comprehensive Lifestyle Consultation with our Head of Performance, Dr. Advik, to begin populating it.",
+                    "timestamp": "2025-01-17T11:00:00",
+                    "message_index": 12
+                },
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "When?",
+                    "timestamp": "2025-01-17T11:01:00",
+                    "message_index": 13
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "I will check his clinical schedule and come back to you with options that fit your stated preference for mornings.",
+                    "timestamp": "2025-01-17T11:05:00",
+                    "message_index": 14
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Update on your wife's dermatology referral: We have identified three leading dermatologists. Dr. Alice Ma at Stanford is a national expert on inflammatory skin conditions. Her waitlist is typically 6 months, but we have a relationship with her office. Would you like us to pursue an appointment with her?",
+                    "timestamp": "2025-01-17T16:30:00",
+                    "message_index": 15
+                },
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "Yes, do that.",
+                    "timestamp": "2025-01-17T16:35:00",
+                    "message_index": 16
+                }
+            ]
+        },
+        {
+            "date": "2025-01-18",
+            "messages": [
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "I have not heard about scheduling the Advik consult.",
+                    "timestamp": "2025-01-18T15:00:00",
+                    "message_index": 17
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "My apologies. I am coordinating with his schedule now. I will have options for you by EOD.",
+                    "timestamp": "2025-01-18T15:05:00",
+                    "message_index": 18
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "[Rohan], Dr. Advik has an opening on Feb 1st at 3 PM or Feb 2nd at 11 AM. Do either of those work?",
+                    "timestamp": "2025-01-18T17:30:00",
+                    "message_index": 19
+                }
+            ]
+        },
+        {
+            "date": "2025-01-19",
+            "messages": [
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "Neither work. Check the week of Feb 5th. Mornings only.",
+                    "timestamp": "2025-01-19T09:02:00",
+                    "message_index": 20
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Understood. I see a potential slot on Feb 5th at 10 AM. I've placed a soft hold on it. Please let me know if I should confirm.",
+                    "timestamp": "2025-01-19T09:15:00",
+                    "message_index": 21
+                }
+            ]
+        },
+        {
+            "date": "2025-01-20",
+            "messages": [
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "Yes, confirm the Feb 5th slot.",
+                    "timestamp": "2025-01-20T11:00:00",
+                    "message_index": 22
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Confirmed. The calendar invitation has been sent with a preliminary agenda.",
+                    "timestamp": "2025-01-20T11:02:00",
+                    "message_index": 23
+                }
+            ]
+        },
+        {
+            "date": "2025-01-21",
+            "messages": [
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Good morning. A thought from our team: while we gather records, understanding your current state is useful. Would you be open to completing a 3-day food log? No need to change anything, just record what you eat. This gives our nutritionist, Carla, a baseline for Pillar 3.",
+                    "timestamp": "2025-01-21T10:30:00",
+                    "message_index": 24
+                },
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "Fine. Send me the template.",
+                    "timestamp": "2025-01-21T10:35:00",
+                    "message_index": 25
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "It's a simple notes app format; just text or photos. Whatever is easiest for you. I've shared a secure note link.",
+                    "timestamp": "2025-01-21T10:36:00",
+                    "message_index": 26
+                }
+            ]
+        },
+        {
+            "date": "2025-01-22",
+            "messages": [
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "To get a head start on the record retrieval for Pillar 1, could you please add your assistant, Suzane, to this chat? We can then liaise with her directly for the administrative details.",
+                    "timestamp": "2025-01-22T14:00:00",
+                    "message_index": 27
+                },
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "System Message: Rohan has added Suzane to the group.",
+                    "timestamp": "2025-01-22T14:01:00",
+                    "message_index": 28
+                },
+                {
+                    "speaker": "Suzane",
+                    "role": "Member",
+                    "message": "Hi all.",
+                    "timestamp": "2025-01-22T14:03:00",
+                    "message_index": 29
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Welcome, Suzane. Could you please provide the clinic names and locations for [Rohan]'s cardiologists in Singapore and New York? We will prepare the necessary medical release forms and send them to you for his signature.",
+                    "timestamp": "2025-01-22T14:04:00",
+                    "message_index": 30
+                }
+            ]
+        },
+        {
+            "date": "2025-01-23",
+            "messages": [
+                {
+                    "speaker": "Suzane",
+                    "role": "Member",
+                    "message": "The details have been uploaded to our shared drive.",
+                    "timestamp": "2025-01-23T10:15:00",
+                    "message_index": 31
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Thank you, Suzane. We are preparing the forms now. They will be with you this afternoon.",
+                    "timestamp": "2025-01-23T10:20:00",
+                    "message_index": 32
+                }
+            ]
+        },
+        {
+            "date": "2025-01-24",
+            "messages": [
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "I have a last minute flight to Chicago tomorrow. Any recommended healthy restaurants near The Loop for a business dinner?",
+                    "timestamp": "2025-01-24T11:30:00",
+                    "message_index": 33
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Of course. I'll research options that can accommodate a clean, low-inflammatory meal. One moment.",
+                    "timestamp": "2025-01-24T11:45:00",
+                    "message_index": 34
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Based on your preferences, I recommend \"True Food Kitchen\". It focuses on an anti-inflammatory menu. I've attached their menu. Would you like me to make a reservation for you?",
+                    "timestamp": "2025-01-24T12:30:00",
+                    "message_index": 35
+                },
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "Yes. 7:30 PM for 4 people.",
+                    "timestamp": "2025-01-24T12:31:00",
+                    "message_index": 36
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Done. Reservation is confirmed. It's in your calendar.",
+                    "timestamp": "2025-01-24T12:32:00",
+                    "message_index": 37
+                }
+            ]
+        },
+        {
+            "date": "2025-01-25",
+            "messages": [
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "attached: Food_Log_Day1.png",
+                    "timestamp": "2025-01-25T13:00:00",
+                    "message_index": 38
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Received, thank you. Forwarding to Carla.",
+                    "timestamp": "2025-01-25T13:05:00",
+                    "message_index": 39
+                }
+            ]
+        },
+        {
+            "date": "2025-01-26",
+            "messages": [
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Hi Suzane, just a gentle follow-up on the signed release forms. We need them to formally initiate the requests.",
+                    "timestamp": "2025-01-26T15:00:00",
+                    "message_index": 40
+                },
+                {
+                    "speaker": "Suzane",
+                    "role": "Member",
+                    "message": "He is traveling. I will get them signed as soon as he lands this evening.",
+                    "timestamp": "2025-01-26T15:30:00",
+                    "message_index": 41
+                }
+            ]
+        },
+        {
+            "date": "2025-01-27",
+            "messages": [
+                {
+                    "speaker": "Suzane",
+                    "role": "Member",
+                    "message": "attached: Signed_Release_Forms.pdf",
+                    "timestamp": "2025-01-27T09:00:00",
+                    "message_index": 42
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Perfect, thank you. We are dispatching the requests now via secure fax and courier.",
+                    "timestamp": "2025-01-27T09:01:00",
+                    "message_index": 43
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Update on your wife's dermatology appointment: Dr. Ma's office has agreed to see her. They have an opening due to a cancellation on Feb 15th. We have tentatively booked it.",
+                    "timestamp": "2025-01-27T14:00:00",
+                    "message_index": 44
+                },
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "Excellent. Confirm it.",
+                    "timestamp": "2025-01-27T14:01:00",
+                    "message_index": 45
+                }
+            ]
+        },
+        {
+            "date": "2025-01-28",
+            "messages": [
+                {
+                    "speaker": "Rohan",
+                    "role": "Member",
+                    "message": "attached: Food_Log_Day2.png",
+                    "timestamp": "2025-01-28T13:30:00",
+                    "message_index": 46
+                },
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Got it. Thanks.",
+                    "timestamp": "2025-01-28T13:31:00",
+                    "message_index": 47
+                }
+            ]
+        },
+        {
+            "date": "2025-01-29",
+            "messages": [
+                {
+                    "speaker": "Ruby",
+                    "role": "Concierge",
+                    "message": "Status Update (Pillar",
+                    "timestamp": "2025-01-29T16:00:00",
+                    "message_index": 48
+                }
+            ]
+        }
+    ],
+    "events": [
+        {
+            "date": "2025-01-16",
+            "decision": "Consolidate complete medical records from all previous specialists.",
+            "reason": "To proceed with a clinical-grade strategy for suspected autonomic dysfunction and to ensure safety and avoid redundant testing.",
+            "related_message_index": 5,
+            "event_type": "plan"
+        },
+        {
+            "date": "2025-01-16",
+            "decision": "Initiate referral process for member's wife to a top-tier dermatologist.",
+            "reason": "Member's wife has a persistent rash.",
+            "related_message_index": 8,
+            "event_type": "referral"
+        },
+        {
+            "date": "2025-01-17",
+            "decision": "Schedule a comprehensive Lifestyle Consultation with Head of Performance, Dr. Advik.",
+            "reason": "To serve as the first step in populating the member's Health Optimization Plan.",
+            "related_message_index": 12,
+            "event_type": "consult"
+        },
+        {
+            "date": "2025-01-17",
+            "decision": "Proceed with pursuing an appointment for member's wife with dermatologist Dr. Alice Ma at Stanford.",
+            "reason": "Dr. Ma is a recommended national expert on inflammatory skin conditions.",
+            "related_message_index": 16,
+            "event_type": "referral"
+        },
+        {
+            "date": "2025-01-20",
+            "decision": "Confirm appointment with Dr. Advik for Feb 5th at 10 AM.",
+            "reason": "To conduct the comprehensive Lifestyle Consultation.",
+            "related_message_index": 22,
+            "event_type": "appointment"
+        },
+        {
+            "date": "2025-01-21",
+            "decision": "Member to complete a 3-day food log.",
+            "reason": "To provide a baseline for the nutritionist (Carla) for Pillar 3 of the health plan.",
+            "related_message_index": 25,
+            "event_type": "test"
+        },
+        {
+            "date": "2025-01-22",
+            "decision": "Coordinate with member's assistant to obtain signed medical release forms.",
+            "reason": "To formally request and retrieve the member's complete medical records from previous cardiologists.",
+            "related_message_index": 30,
+            "event_type": "plan"
+        },
+        {
+            "date": "2025-01-27",
+            "decision": "Confirm dermatology appointment for member's wife with Dr. Alice Ma on Feb 15th.",
+            "reason": "An earlier opening became available due to a cancellation.",
+            "related_message_index": 45,
+            "event_type": "appointment"
+        }
+    ],
+    "metrics": {
+        "total_messages": 49,
+        "total_days": 15,
+        "role_engagement": {
+            "Member": 22,
+            "Concierge": 26,
+            "Medical Strategist": 1
+        },
+        "key_events_count": 8,
+        "progress_entries": 4
+    },
+    "progress": [
+        {
+            "date": "2025-01-15",
+            "vital_signs": {
+                "weight": null,
+                "bp_systolic": null,
+                "bp_diastolic": null,
+                "heart_rate": null
+            },
+            "symptoms": {
+                "dizziness": true,
+                "shortness_of_breath": false,
+                "fatigue": null,
+                "chest_pain": null
+            },
+            "emotional_state": "Concerned",
+            "notes": "Member reports Garmin logging consistently high intensity minutes, even on rest days, suspecting POTS/long COVID. Reports dizziness upon standing.",
+            "medication_adherence": "Unknown",
+            "activity_level": "Unknown"
+        },
+        {
+            "date": "2025-01-16",
+            "vital_signs": {
+                "weight": null,
+                "bp_systolic": null,
+                "bp_diastolic": null,
+                "heart_rate": null
+            },
+            "symptoms": {
+                "dizziness": null,
+                "shortness_of_breath": null,
+                "fatigue": null,
+                "chest_pain": null
+            },
+            "emotional_state": "Neutral",
+            "notes": "Dr. Warren reviewed initial submission and noted that symptoms and data strongly suggest autonomic dysfunction.",
+            "medication_adherence": "Unknown",
+            "activity_level": "Unknown"
+        },
+        {
+            "date": "2025-01-25",
+            "vital_signs": {
+                "weight": null,
+                "bp_systolic": null,
+                "bp_diastolic": null,
+                "heart_rate": null
+            },
+            "symptoms": {
+                "dizziness": null,
+                "shortness_of_breath": null,
+                "fatigue": null,
+                "chest_pain": null
+            },
+            "emotional_state": "Neutral",
+            "notes": "Member submitted Day 1 of food log.",
+            "medication_adherence": "Unknown",
+            "activity_level": "Unknown"
+        },
+        {
+            "date": "2025-01-28",
+            "vital_signs": {
+                "weight": null,
+                "bp_systolic": null,
+                "bp_diastolic": null,
+                "heart_rate": null
+            },
+            "symptoms": {
+                "dizziness": null,
+                "shortness_of_breath": null,
+                "fatigue": null,
+                "chest_pain": null
+            },
+            "emotional_state": "Neutral",
+            "notes": "Member submitted Day 2 of food log.",
+            "medication_adherence": "Unknown",
+            "activity_level": "Unknown"
+        }
+    ],
+    "parsing_metadata": {
+        "parsed_at": "2025-08-16T12:32:17.007941",
+        "parser_version": "LLM-powered",
+        "source_file": "conversation.txt"
+    }
+}
