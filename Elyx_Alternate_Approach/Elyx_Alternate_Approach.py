@@ -7,7 +7,7 @@ import time
 import re
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyDxJOx6DS-WUBhXiiskYos3HkTyqUEpkZw")  # Uncomment and add your API key
+genai.configure(api_key="ENTER_YOUR_GEMINI_API_KEY")  # Uncomment and add your API key
 
 # HIGH LEVEL 32-WEEK PLAN
 THIRTY_TWO_WEEK_PLAN = """
