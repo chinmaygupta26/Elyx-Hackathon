@@ -16,7 +16,7 @@ MODEL_NAME = "gemini-2.5-pro"
 
 # Do NOT hardcode your key. Set it in the environment or via Colab UI: 
 # os.environ["GOOGLE_API_KEY"] = "YOUR_KEY"  # (avoid doing this in code)
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDxJOx6DS-WUBhXiiskYos3HkTyqUEpkZw"
+os.environ["GOOGLE_API_KEY"] = "ENTER_YOUR_GEMINI_API_KEY"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 
