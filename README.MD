@@ -1,34 +1,39 @@
+# Elyx Member Journey Dashboard
 
-# Elyx Member Journey Dashboard  
+### Team
 
-This project solves the given problem statement:  
+**Team Name:** Team Corona
+**Members:** Chinmay Gupta and Ajay Paliwal
+**College:** IIT Kharagpur
 
-> **Generate communication messages over 8 months from member sign up, visualize the member’s journey, and provide reasoning for Elyx’s decisions.**  
+This project solves the given problem statement:
 
-The app simulates WhatsApp-style conversations between a **member** and the **Elyx team** (doctor, coach, nutritionist, etc.), then converts them into structured JSON and visualizes the **member’s progress, decisions, and internal metrics**.  
+> **Generate communication messages over 8 months from member sign up, visualize the member’s journey, and provide reasoning for Elyx’s decisions.**
 
----
-
-## 📦 Requirements  
-
-- **Python 3.8+**  
-- **Node.js 16+**  
-- **npm 8+**  
+The app simulates WhatsApp-style conversations between a **member** and the **Elyx team** (doctor, coach, nutritionist, etc.), then converts them into structured JSON and visualizes the **member’s progress, decisions, and internal metrics**.
 
 ---
 
-## 🐍 Python Setup  
+## 📦 Requirements
 
-It’s recommended to use a **virtual environment**:  
+* **Python 3.8+**
+* **Node.js 16+**
+* **npm 8+**
+
+---
+
+## 🐍 Python Setup
+
+It’s recommended to use a **virtual environment**:
 
 ```bash
 python -m venv venv
-````
+```
 
 Activate:
 
 * Mac/Linux: `source venv/bin/activate`
-* Windows: `.\venv\Scripts\activate`
+* Windows: `\.\venv\Scripts\activate`
 
 Install dependencies:
 
@@ -143,5 +148,3 @@ python -m venv venv && source venv/bin/activate && pip install -r requirements.t
 ---
 
 ✅ After following these steps, you’ll get a **simulated 8-month journey**, fully visualized in the React dashboard.
-
-
