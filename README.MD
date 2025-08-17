@@ -1,10 +1,10 @@
-# Elyx Member Journey Dashboard
+# Elyx Hackathon-Creating a Heathcare Chatbot using Multi-Agentic AI System
 
 ### Team
 
-**Team Name:** Team Corona
-**Members:** Chinmay Gupta and Ajay Paliwal
-**College:** IIT Kharagpur
+**Team Name:** Team Corona <br>
+**Members:** Chinmay Gupta and Ajay Paliwal <br>
+**College:** IIT Kharagpur <br>
 
 This project solves the given problem statement:
 
